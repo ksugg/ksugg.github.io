@@ -1,0 +1,23 @@
+html  {
+	height: 100%;
+	width: 100%;
+	font-family: 'Roboto Mono', monospace;
+  	font-weight: 700;
+  	font-size: 20px;
+  	letter-spacing: 2pt;
+
+}
+
+body {
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+a {
+
+	padding-right: 20pt;
+}
+
+.kelsey {
+	margin-bottom: 20pt;
+}
